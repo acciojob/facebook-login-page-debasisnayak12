@@ -46,10 +46,16 @@ body{
 	color:#1a77f2;
 	margin-bottom:0px;
 }
+.right>p>a{
+	text-decoration:none;
+}
 .create{
-	color:#fff;
 	border:none;
 	background-color:#43b72a;
 	border-radius:5px;
 	padding:8px;
+}
+.create a{
+	text-decoration:none;
+	color:#fff;
 }
